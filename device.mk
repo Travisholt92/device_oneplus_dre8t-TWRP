@@ -36,9 +36,7 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.0-service \
     android.hardware.boot@1.0-impl-wrapper.recovery \
     android.hardware.boot@1.0-impl-wrapper \
-    android.hardware.boot@1.0-impl-recovery \
-    qcom_decrypt \
-    qcom_decrypt_fbe
+    android.hardware.boot@1.0-impl-recovery
 
 PRODUCT_PACKAGES += \
     bootctrl.holi
